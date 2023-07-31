@@ -79,8 +79,8 @@ li {
 .dock {
     background-image: url(img/dock.png);
     background-size: 100%;
-    height: 80px;
-    width: 240px;
+    height: 70px;
+    width: 210px;
     position: absolute;
     display: flex;
     align-items: center;
@@ -100,3 +100,4 @@ li {
     top: 150px;
     z-index: 7;
 }
+
